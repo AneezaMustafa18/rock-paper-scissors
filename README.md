@@ -1,17 +1,45 @@
-# rock_paper_scissors
+# 🎮 Rock Paper Scissors
 
-A new Flutter project.
+An interactive Rock Paper Scissors game built with **Flutter and Dart**, featuring a computer opponent, character selection, score tracking, sound effects, and a vibrant gaming UI.
 
-## Getting Started
+🌐 **Play Live:** [Rock Paper Scissors](https://rock-paper-scissors-rust-seven.vercel.app/)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎮 Interactive Rock, Paper, and Scissors gameplay
+- 🤖 Computer opponent
+- 👤 Character selection
+- 🏆 Score tracking
+- 🎉 Victory celebrations and sound effects
+- 🌌 Neon-inspired UI with custom backgrounds
+- 🌐 Live web deployment on Vercel
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Git & GitHub
+- Vercel
+
+## 🎯 Game Rules
+
+- 🪨 Rock beats Scissors
+- 📄 Paper beats Rock
+- ✂️ Scissors beats Paper
+- 🤝 Matching moves result in a draw
+
+## 👩‍💻 Developer
+
+**Aneeza Mustafa**  
+Flutter Developer | Web Developer
+
+- 💻 **GitHub Repository:** [View Source Code](https://github.com/AneezaMustafa18/rock-paper-scissors)
+- 🌐 **Live Game:** [Play Now](https://rock-paper-scissors-rust-seven.vercel.app/)
+- 💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/aneeza-mustafa-a062872ba/)
+- 👩‍💻 **GitHub Profile:** [AneezaMustafa18](https://github.com/AneezaMustafa18)
+
+---
+
+⭐ Enjoy the game? Give the repository a star!
+
+*Built with Flutter and Dart.*
